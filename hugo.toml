@@ -1,8 +1,7 @@
 baseURL = 'https://15august.github.io/vb/'
 languageCode = 'en-us'
-title = 'VB Blog'
+title = 'VB writings'
 theme = "yinyang"
 
 [params]
-headTitle = "VB Blog"
-disqus = "v0k3r"
+headTitle = "VB writings"
